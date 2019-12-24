@@ -1,0 +1,11 @@
+.DS_Store
+*.pyc
+*.egg-info
+dist
+*.swp
+*.iml
+.idea/
+bin/
+.env/
+.ipynb_checkpoints/
+output.ipynb
